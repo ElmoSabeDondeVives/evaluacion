@@ -8,18 +8,13 @@
 ?>
 <!-- Begin Page Content -->
 <div class="container-fluid">
-<!--     Page Heading-->
-<!--    <div class="d-sm-flex align-items-center justify-content-between mb-4">-->
-<!--        <h1 class="h3 mb-0 text-gray-800">Inicio</h1>-->
-<!--        <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fa fa-download fa-sm text-white-50"></i> Generate Report</a>-->
-<!--    </div>-->
     <div class="row">
         <div class="col-lg-12 mb-4 order-0">
             <div class="card">
                 <div class="d-flex align-items-end row">
                     <div class="col-sm-7">
                         <div class="card-body">
-                            <h3 class="card-title text-primary">Bienvenido a Quispe! 🎉</h3>
+                            <h3 class="card-title text-success">Bienvenido a GREL! 🎉</h3>
 
                         </div>
                     </div>
@@ -157,8 +152,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- </div>
-<div class="row"> -->
                 <div class="col-12 mb-4">
                     <div class="card">
                         <div class="card-body">
@@ -386,21 +379,7 @@
                                 </div>
                             </div>
                         </li>
-                        <!--<li class="d-flex mb-4 pb-1">
-                            <div class="avatar flex-shrink-0 me-3">
-                                <img src="<?/*= _SERVER_._STYLES_bt5_ */?>assets/img/icons/unicons/wallet.png" alt="User" class="rounded" />
-                            </div>
-                            <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
-                                <div class="me-2">
-                                    <small class="text-muted d-block mb-1">Wallet</small>
-                                    <h6 class="mb-0">Mac'D</h6>
-                                </div>
-                                <div class="user-progress d-flex align-items-center gap-1">
-                                    <h6 class="mb-0">+270.69</h6>
-                                    <span class="text-muted">USD</span>
-                                </div>
-                            </div>
-                        </li>-->
+
                         <li class="d-flex mb-4 pb-1">
                             <div class="avatar flex-shrink-0 me-3">
                                 <img src="<?= _SERVER_._STYLES_bt5_ ?>assets/img/icons/unicons/chart.png" alt="User" class="rounded" />
@@ -467,147 +446,7 @@
         </div>
         <!--/ Transactions -->
     </div>
-    <!-- 3 CARTAS -->
-    <div class="card shadow">
-        <div class="card-body">
-            <div class="row">
-                <div class="col-4">
-                    <div class="card border_viajes container_hover m-2" style="background-image: url(<?= _SERVER_._STYLES_F_?>assets/img/39años.jpg);background-size: 185%;background-position: center; border-top-left-radius: 18px;border-top-right-radius: 18px; background-repeat: no-repeat;">
-                        <!--                        <img src="--><?php //= _SERVER_._VIEW_PATH_ ?><!--media/paquetes/fondo2.jpg" class="card-img-top" alt="...">-->
-                        <div class="fondo_cabeza">
-                            <h5 class="card-title font-weight-bold text-white t_hover p-2 titulo_hover">TIENDA VIRTUAL QUISPE(BACKEND)</h5>
-                        </div>
-                        <div class="card-body">
-                            <div class="w-100 " style="height: 150px;">
-                                <img src="">
-                            </div>
-                        </div>
-<!--                        <div class="w-100 d-flex align-items-lg-end justify-content-center">-->
-<!--                            <label for="" style="color: #D4AF37;font-size: 20px">&#9733;</label>-->
-<!--                            <label for="" style="color: #D4AF37;font-size: 20px">&#9733;</label>-->
-<!--                            <label for="" style="color: #D4AF37;font-size: 20px">&#9733;</label>-->
-<!--                            <label for="" style="color: #D4AF37;font-size: 20px">&#9733;</label>-->
-<!--                            <label for="" style="color: #D4AF37;font-size: 20px">&#9733;</label>-->
-<!--                        </div>-->
-                    </div>
-                </div>
-                <div class="col-4">
-                    <div class="card border_viajes container_hover m-2" style="background-image: url(<?= _SERVER_._STYLES_F_?>assets/img/Quispe_logo_facebook.jpg);background-size: 70%;background-position: center; border-top-left-radius: 18px;border-top-right-radius: 18px; background-repeat: no-repeat;">
-                        <!--                        <img src="--><?php //= _SERVER_._VIEW_PATH_ ?><!--media/paquetes/fondo2.jpg" class="card-img-top" alt="...">-->
-                        <div class="fondo_cabeza">
-                            <h5 class="card-title font-weight-bold text-white t_hover p-2 titulo_hover">TIENDA VIRTUAL QUISPE(BACKEND)</h5>
-                        </div>
-                        <div class="card-body">
-                            <div class="w-100 " style="height: 150px;">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-4">
-                    <div class="card border_viajes container_hover m-2" style="background-image: url(<?= _SERVER_._STYLES_F_?>assets/img/fachada.jpg);background-size: 125%;background-position: center; border-top-left-radius: 18px;border-top-right-radius: 18px; background-repeat: no-repeat;">
-                        <!--                        <img src="--><?php //= _SERVER_._VIEW_PATH_ ?><!--media/paquetes/fondo2.jpg" class="card-img-top" alt="...">-->
-                        <div class="fondo_cabeza">
-                            <h5 class="card-title font-weight-bold text-white t_hover p-2 titulo_hover">TIENDA VIRTUAL QUISPE(BACKEND)</h5>
-                        </div>
-                        <div class="card-body">
-                            <div class="w-100 " style="height: 150px;">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-12 mb-4">
-            <!-- Approach -->
-<!--            <div class="card shadow mb-4 bg-gradient-success text-white">-->
-<!--                <div class="card-header py-3">-->
-<!--                    <h6 class="m-0 font-weight-bold text-primary">Bienvenido a EggPHP3, --><?php //echo $this->encriptar->desencriptar($_SESSION['p_n'],_FULL_KEY_) . ' ' . $this->encriptar->desencriptar($_SESSION['p_p'],_FULL_KEY_);?><!--</h6>-->
-<!--                </div>-->
-<!--                <div class="card-body" style="text-align: center;">-->
-<!--                    <h2 style="padding-top: 20px;">Su Rol de Usuario es: --><?php //echo $this->encriptar->desencriptar($_SESSION['rn'],_FULL_KEY_);?><!--</h2><br>-->
-<!--                </div>-->
-<!--            </div>-->
-        </div>
-    </div>
 
-
-
-
-
-    <!-- Content Row -->
-    <!--<div class="row">
-        <div class="col-xl-3 col-md-6 mb-4">
-            <div class="card border-left-primary shadow h-100 py-2">
-                <div class="card-body">
-                    <div class="row no-gutters align-items-center">
-                        <div class="col mr-2">
-                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Pedidos Por Atender</div>
-                            <div class="h5 mb-0 font-weight-bold text-gray-800">12</div>
-                        </div>
-                        <div class="col-auto">
-                            <i class="fa fa-calendar fa-2x text-gray-300"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xl-3 col-md-6 mb-4">
-            <div class="card border-left-success shadow h-100 py-2">
-                <div class="card-body">
-                    <div class="row no-gutters align-items-center">
-                        <div class="col mr-2">
-                            <div class="text-xs font-weight-bold text-success text-uppercase mb-1">Pedidos Atendidos (Hoy)</div>
-                            <div class="h5 mb-0 font-weight-bold text-gray-800">2</div>
-                        </div>
-                        <div class="col-auto">
-                            <i class="fa fa-sticky-note fa-2x text-gray-300"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xl-3 col-md-6 mb-4">
-            <div class="card border-left-info shadow h-100 py-2">
-                <div class="card-body">
-                    <div class="row no-gutters align-items-center">
-                        <div class="col mr-2">
-                            <div class="text-xs font-weight-bold text-info text-uppercase mb-1">Pedidos Atendidos (Mes)</div>
-                            <div class="row no-gutters align-items-center">
-                                <div class="col-auto">
-                                    <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">30</div>
-                                </div>
-                                <div class="col">
-                                    <div class="progress progress-sm mr-2">
-                                        <div class="progress-bar bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-auto">
-                            <i class="fa fa-clipboard fa-2x text-gray-300"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xl-3 col-md-6 mb-4">
-            <div class="card border-left-warning shadow h-100 py-2">
-                <div class="card-body">
-                    <div class="row no-gutters align-items-center">
-                        <div class="col mr-2">
-                            <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">Ingresos Pedidos del Mes</div>
-                            <div class="h5 mb-0 font-weight-bold text-gray-800">S/. 120</div>
-                        </div>
-                        <div class="col-auto">
-                            <i class="fa fa-dollar fa-2x text-gray-300"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>-->
 </div>
 <!-- /.container-fluid -->
 

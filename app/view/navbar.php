@@ -3,8 +3,8 @@
         <aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme">
             <div class="app-brand demo">
                 <a href="<?= _SERVER_ ?>" class="app-brand-link">
-              <span class="app-brand-logo demo">
-                  <img src="<?php echo _SERVER_ . _ICON_;?>" style="width: 10%;" alt="Logo" />
+              <span class="app-brand-logo demo ">
+                  <img src="<?php echo _SERVER_ . _ICON_;?>" style="width: 5%;" alt="Logo" />
                   <!--<svg
                       width="25"
                       viewBox="0 0 25 42"
@@ -165,7 +165,7 @@
                 </div>
 
                 <div class="navbar-nav-right d-flex align-items-center" id="navbar-collapse">
-                    <h3 class="text-primary" style="margin-top: 15px">SOFTWARE DE GESTIÓN DE TIENDA VIRTUAL</h3>
+                    <h3 class="text-success" style="margin-top: 15px">Aplicación de Evaluación Diagnóstica  </h3>
                     <!-- Search -->
                     <div class="navbar-nav align-items-center">
                         <div class="nav-item d-flex align-items-center">
