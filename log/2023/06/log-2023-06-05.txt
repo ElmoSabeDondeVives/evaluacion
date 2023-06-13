@@ -1,0 +1,124 @@
+2023-06-05 10:20:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\MarcaController.php: 44[MESSAGGE]Undefined index: id
+
+2023-06-05 10:22:33[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-06-05 10:24:49[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 110[MESSAGGE]Undefined index: id
+
+2023-06-05 10:28:05[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\MarcaController.php: 44[MESSAGGE]Undefined index: id
+
+2023-06-05 10:31:41[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 110[MESSAGGE]Undefined index: id
+
+2023-06-05 10:43:45[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 484[MESSAGGE]Undefined property: stdClass::$id_producto
+
+2023-06-05 10:43:45[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 505[MESSAGGE]Undefined variable: message
+
+2023-06-05 10:44:50[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 505[MESSAGGE]Undefined variable: message
+
+2023-06-05 10:49:52[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 110[MESSAGGE]Undefined index: id
+
+2023-06-05 10:50:11[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\MarcaController.php: 44[MESSAGGE]Undefined index: id
+
+2023-06-05 10:50:33[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-06-05 10:51:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-06-05 10:51:41[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\MarcaController.php: 44[MESSAGGE]Undefined index: id
+
+2023-06-05 10:52:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\MarcaController.php: 44[MESSAGGE]Undefined index: id
+
+2023-06-05 10:52:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 110[MESSAGGE]Undefined index: id
+
+2023-06-05 10:54:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 505[MESSAGGE]Undefined variable: message
+
+2023-06-05 11:02:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:02:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 64[MESSAGGE]Undefined index: ru
+
+2023-06-05 11:02:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 93[MESSAGGE]Undefined index: ru
+
+2023-06-05 11:02:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 187[MESSAGGE]Undefined index: u_i
+
+2023-06-05 11:02:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 196[MESSAGGE]Undefined index: u_i
+
+2023-06-05 11:02:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 200[MESSAGGE]Undefined index: p_n
+
+2023-06-05 11:02:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 201[MESSAGGE]Undefined index: rn
+
+2023-06-05 11:02:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:02:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:02:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:02:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 64[MESSAGGE]Undefined index: ru
+
+2023-06-05 11:02:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 93[MESSAGGE]Undefined index: ru
+
+2023-06-05 11:02:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 187[MESSAGGE]Undefined index: u_i
+
+2023-06-05 11:02:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 196[MESSAGGE]Undefined index: u_i
+
+2023-06-05 11:02:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 200[MESSAGGE]Undefined index: p_n
+
+2023-06-05 11:02:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 201[MESSAGGE]Undefined index: rn
+
+2023-06-05 11:02:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:02:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 64[MESSAGGE]Undefined index: ru
+
+2023-06-05 11:02:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 93[MESSAGGE]Undefined index: ru
+
+2023-06-05 11:02:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 187[MESSAGGE]Undefined index: u_i
+
+2023-06-05 11:02:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 196[MESSAGGE]Undefined index: u_i
+
+2023-06-05 11:02:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 200[MESSAGGE]Undefined index: p_n
+
+2023-06-05 11:02:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 201[MESSAGGE]Undefined index: rn
+
+2023-06-05 11:02:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:02:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:02:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 64[MESSAGGE]Undefined index: ru
+
+2023-06-05 11:02:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 93[MESSAGGE]Undefined index: ru
+
+2023-06-05 11:02:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 187[MESSAGGE]Undefined index: u_i
+
+2023-06-05 11:02:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 196[MESSAGGE]Undefined index: u_i
+
+2023-06-05 11:02:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 200[MESSAGGE]Undefined index: p_n
+
+2023-06-05 11:02:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\view\navbar.php: 201[MESSAGGE]Undefined index: rn
+
+2023-06-05 11:02:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:02:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:02:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:02:47[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:02:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:03:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:03:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:04:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 505[MESSAGGE]Undefined variable: message
+
+2023-06-05 11:05:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 484[MESSAGGE]Undefined property: stdClass::$id_producto
+
+2023-06-05 11:05:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\quispeback\app\controllers\ProductoController.php: 505[MESSAGGE]Undefined variable: message
+
+2023-06-05 11:33:17[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:33:17[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:33:26[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:35:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 11:35:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\quispeback\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+

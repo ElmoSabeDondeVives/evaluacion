@@ -1,0 +1,237 @@
+2023-04-28 12:11:44[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\FamiliasController.php: 74[MESSAGGE]Undefined index: id_actualizar_familia
+
+2023-04-28 12:11:44[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\FamiliasController.php: 88[MESSAGGE]Undefined index: id_familia
+
+2023-04-28 12:11:57[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\FamiliasController.php: 74[MESSAGGE]Undefined index: id_actualizar_familia
+
+2023-04-28 12:11:57[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Familias.php: 101[MESSAGGE]Undefined property: Familias::$familia_nombre
+
+2023-04-28 12:11:57[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Familias.php: 102[MESSAGGE]Undefined property: Familias::$familia_descripcion
+
+2023-04-28 12:11:57[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Familias.php: 103[MESSAGGE]Undefined property: Familias::$familia_estado
+
+2023-04-28 12:11:57[UTC -5] [ip] ::1 [lugar] Familias|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'familia_nombre' cannot be null
+2023-04-28 12:12:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\FamiliasController.php: 74[MESSAGGE]Undefined index: id_actualizar_familia
+
+2023-04-28 12:12:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Familias.php: 101[MESSAGGE]Undefined property: Familias::$familia_nombre
+
+2023-04-28 12:12:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Familias.php: 102[MESSAGGE]Undefined property: Familias::$familia_descripcion
+
+2023-04-28 12:12:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Familias.php: 103[MESSAGGE]Undefined property: Familias::$familia_estado
+
+2023-04-28 12:12:00[UTC -5] [ip] ::1 [lugar] Familias|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'familia_nombre' cannot be null
+2023-04-28 12:12:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\FamiliasController.php: 74[MESSAGGE]Undefined index: id_actualizar_familia
+
+2023-04-28 12:12:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\FamiliasController.php: 88[MESSAGGE]Undefined index: id_familia
+
+2023-04-28 12:16:12[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\FamiliasController.php: 74[MESSAGGE]Undefined index: id_actualizar_familia
+
+2023-04-28 12:16:12[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Familias.php: 101[MESSAGGE]Undefined property: Familias::$familia_nombre
+
+2023-04-28 12:16:12[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Familias.php: 102[MESSAGGE]Undefined property: Familias::$familia_descripcion
+
+2023-04-28 12:16:12[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Familias.php: 103[MESSAGGE]Undefined property: Familias::$familia_estado
+
+2023-04-28 12:16:12[UTC -5] [ip] ::1 [lugar] Familias|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'familia_nombre' cannot be null
+2023-04-28 12:16:17[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\FamiliasController.php: 74[MESSAGGE]Undefined index: id_actualizar_familia
+
+2023-04-28 12:16:17[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\FamiliasController.php: 88[MESSAGGE]Undefined index: id_familia
+
+2023-04-28 12:40:47[UTC -5] [ip] ::1 [lugar] Categoria|guardar_categoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 13:13:45[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\categoria\inicio.php: 46[MESSAGGE]Undefined variable: m
+
+2023-04-28 13:13:45[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\categoria\inicio.php: 46[MESSAGGE]Trying to get property 'id_familia' of non-object
+
+2023-04-28 13:14:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\categoria\inicio.php: 46[MESSAGGE]Undefined variable: m
+
+2023-04-28 13:14:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\categoria\inicio.php: 46[MESSAGGE]Trying to get property 'id_familia' of non-object
+
+2023-04-28 13:19:21[UTC -5] [ip] ::1 [lugar] Categoria|guardar_categoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 13:19:45[UTC -5] [ip] ::1 [lugar] Categoria|guardar_categoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 13:24:20[UTC -5] [ip] ::1 [lugar] Categoria|guardar_categoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 13:24:55[UTC -5] [ip] ::1 [lugar] Categoria|guardar_categoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 13:27:14[UTC -5] [ip] ::1 [lugar] Categoria|guardar_categoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 13:28:52[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\CategoriaController.php: 108[MESSAGGE]Undefined variable: menu
+
+2023-04-28 14:17:58[UTC -5] [ip] ::1 [lugar] Categoria|guardar_actualizar [texto] SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2023-04-28 14:19:13[UTC -5] [ip] ::1 [lugar] Categoria|guardar_actualizar [texto] SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2023-04-28 14:20:42[UTC -5] [ip] ::1 [lugar] Categoria|guardar_actualizar [texto] SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2023-04-28 14:40:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\SubcategoriaController.php: 41[MESSAGGE]Undefined index: id
+
+2023-04-28 14:40:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 69[MESSAGGE]Trying to get property 'categoria_nombre' of non-object
+
+2023-04-28 15:33:38[UTC -5] [ip] ::1 [lugar] Producto|listar_productos [texto] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.id_categoria' in 'on clause'
+2023-04-28 15:33:45[UTC -5] [ip] ::1 [lugar] Producto|listar_productos [texto] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.id_categoria' in 'on clause'
+2023-04-28 15:33:48[UTC -5] [ip] ::1 [lugar] Producto|listar_productos [texto] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.id_categoria' in 'on clause'
+2023-04-28 15:34:19[UTC -5] [ip] ::1 [lugar] Producto|listar_productos [texto] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.id_categoria' in 'on clause'
+2023-04-28 15:34:22[UTC -5] [ip] ::1 [lugar] Producto|listar_productos [texto] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.id_categoria' in 'on clause'
+2023-04-28 15:36:52[UTC -5] [ip] ::1 [lugar] Producto|listar_productos [texto] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.id_categoria' in 'on clause'
+2023-04-28 15:51:52[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\SubcategoriaController.php: 46[MESSAGGE]Undefined variable: id_subcategoria
+
+2023-04-28 15:51:52[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Trying to get property 'subcategoria_nombre' of non-object
+
+2023-04-28 15:51:52[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 72[MESSAGGE]Trying to get property 'categoria_nombre' of non-object
+
+2023-04-28 15:52:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\SubcategoriaController.php: 46[MESSAGGE]Undefined variable: id_subcategoria
+
+2023-04-28 15:52:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Trying to get property 'subcategoria_nombre' of non-object
+
+2023-04-28 15:52:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 72[MESSAGGE]Trying to get property 'categoria_nombre' of non-object
+
+2023-04-28 15:53:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\SubcategoriaController.php: 46[MESSAGGE]Undefined variable: id_subcategoria
+
+2023-04-28 15:53:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Trying to get property 'subcategoria_nombre' of non-object
+
+2023-04-28 15:53:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 72[MESSAGGE]Trying to get property 'subcategoria_nombre' of non-object
+
+2023-04-28 15:53:02[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\SubcategoriaController.php: 46[MESSAGGE]Undefined variable: id_subcategoria
+
+2023-04-28 15:53:02[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Trying to get property 'subcategoria_nombre' of non-object
+
+2023-04-28 15:53:02[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 72[MESSAGGE]Trying to get property 'subcategoria_nombre' of non-object
+
+2023-04-28 15:53:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\SubcategoriaController.php: 46[MESSAGGE]Undefined variable: id_subcategoria
+
+2023-04-28 15:53:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Trying to get property 'subcategoria_nombre' of non-object
+
+2023-04-28 15:53:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 72[MESSAGGE]Trying to get property 'subcategoria_nombre' of non-object
+
+2023-04-28 15:53:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\SubcategoriaController.php: 46[MESSAGGE]Undefined variable: id_subcategoria
+
+2023-04-28 15:53:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Trying to get property 'subcategoria_nombre' of non-object
+
+2023-04-28 15:53:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 72[MESSAGGE]Trying to get property 'subcategoria_nombre' of non-object
+
+2023-04-28 15:55:31[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Undefined property: stdClass::$subcategoria_nombre
+
+2023-04-28 15:55:31[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 72[MESSAGGE]Undefined property: stdClass::$subcategoria_nombre
+
+2023-04-28 15:55:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Undefined property: stdClass::$subcategoria_nombre
+
+2023-04-28 15:55:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 72[MESSAGGE]Undefined property: stdClass::$subcategoria_nombre
+
+2023-04-28 15:57:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Undefined variable: nombre
+
+2023-04-28 15:57:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Trying to get property 'subcategoria_nombre' of non-object
+
+2023-04-28 15:57:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Undefined property: stdClass::$subcategoria_nombre
+
+2023-04-28 15:57:40[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Undefined property: stdClass::$subcategoria_nombre
+
+2023-04-28 15:57:46[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Undefined property: stdClass::$subcategoria_nombre
+
+2023-04-28 15:58:11[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Undefined property: stdClass::$subcategoria_nombre
+
+2023-04-28 15:58:49[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Undefined property: stdClass::$subcategoria_nombre
+
+2023-04-28 15:58:56[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Undefined property: stdClass::$subcategoria_nombre
+
+2023-04-28 15:59:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 25[MESSAGGE]Undefined property: stdClass::$subcategoria_nombre
+
+2023-04-28 16:35:17[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:35:44[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:35:45[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:36:16[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:36:18[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:36:19[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:36:47[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:36:49[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:36:57[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:37:47[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:39:03[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:39:05[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:46:58[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:47:28[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:47:35[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:47:36[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:47:37[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:47:37[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:47:37[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:48:56[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:48:58[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:52:46[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-28 16:53:34[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_actualizar [texto] SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'asff' for column 'subcategoria_estado' at row 1
+2023-04-28 16:54:32[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_actualizar [texto] SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'asdad' for column 'subcategoria_estado' at row 1
+2023-04-28 16:58:02[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_actualizar [texto] SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'asdad' for column 'subcategoria_estado' at row 1
+2023-04-28 16:59:48[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_actualizar [texto] SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'asdds' for column 'subcategoria_estado' at row 1
+2023-04-28 17:00:59[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_actualizar [texto] SQLSTATE[HY000]: General error: 1364 Field 'id_productos' doesn't have a default value
+2023-04-28 17:01:00[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_actualizar [texto] SQLSTATE[HY000]: General error: 1364 Field 'id_productos' doesn't have a default value
+2023-04-28 17:02:01[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_actualizar [texto] SQLSTATE[HY000]: General error: 1364 Field 'id_productos' doesn't have a default value
+2023-04-28 17:07:17[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_actualizar [texto] SQLSTATE[HY000]: General error: 1364 Field 'id_productos' doesn't have a default value
+2023-04-28 17:10:52[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_actualizar [texto] SQLSTATE[HY000]: General error: 1364 Field 'id_productos' doesn't have a default value
+2023-04-28 17:13:50[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 17:20:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:14:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\tienda\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-04-28 22:15:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\tienda\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-04-28 22:16:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\FamiliasController.php: 88[MESSAGGE]Undefined index: id_familia
+
+2023-04-28 22:17:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:18:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:18:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:18:17[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:18:17[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:18:17[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:19:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:19:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:19:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:20:11[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:20:11[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:20:11[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:20:29[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:20:29[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:20:29[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:21:34[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:21:34[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:21:35[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:27:47[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:27:47[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:27:47[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:31:30[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:31:30[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:31:30[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:31:57[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:31:57[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:31:57[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:34:58[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:34:58[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-28 22:34:58[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+

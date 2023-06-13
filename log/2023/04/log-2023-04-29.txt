@@ -1,0 +1,141 @@
+2023-04-29 00:10:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\tienda\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-04-29 00:11:06[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\tienda\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-04-29 00:12:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-29 00:12:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-29 00:12:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-29 00:13:02[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-29 00:13:06[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-29 00:13:06[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-29 00:13:06[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-29 00:13:46[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-29 00:14:43[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-29 00:14:56[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 103[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-29 00:15:10[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\subcategoria\inicio.php: 102[MESSAGGE]Undefined property: stdClass::$subcategoria_descripcion
+
+2023-04-29 00:29:32[UTC -5] [ip] ::1 [lugar] Subcategoria|mostrar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-29 00:37:59[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-29 00:41:42[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-29 00:41:59[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-29 00:42:02[UTC -5] [ip] ::1 [lugar] Subcategoria|guardar_subcategoria [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-29 09:07:16[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\tienda\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-04-29 09:07:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\tienda\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-04-29 09:30:27[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+2023-04-29 09:36:56[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:36:56[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 100[MESSAGGE]Undefined index: id_subcategoria
+
+2023-04-29 09:36:56[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+2023-04-29 09:39:41[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:39:41[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 112[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 09:39:41[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+2023-04-29 09:39:49[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:39:49[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 112[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 09:39:49[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+2023-04-29 09:41:29[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:41:59[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 112[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 09:40:00[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+2023-04-29 09:45:11[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:45:11[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 112[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 09:45:11[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_categoria' cannot be null
+2023-04-29 09:46:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:46:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 112[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 09:46:19[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_categoria' cannot be null
+2023-04-29 09:46:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:46:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 112[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 09:46:21[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_categoria' cannot be null
+2023-04-29 09:46:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:46:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 112[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 09:46:22[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_categoria' cannot be null
+2023-04-29 09:46:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:46:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 112[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 09:46:23[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_categoria' cannot be null
+2023-04-29 09:46:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:46:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 112[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 09:46:23[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_categoria' cannot be null
+2023-04-29 09:46:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:46:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 112[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 09:46:23[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_categoria' cannot be null
+2023-04-29 09:46:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:46:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 112[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 09:46:23[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_categoria' cannot be null
+2023-04-29 09:48:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 09:48:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 112[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 09:48:01[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_categoria' cannot be null
+2023-04-29 10:05:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 10:05:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 124[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 10:05:04[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_categoria' cannot be null
+2023-04-29 10:05:45[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 99[MESSAGGE]Undefined index: id_categoria
+
+2023-04-29 10:05:45[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 124[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 10:05:45[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_categoria' cannot be null
+2023-04-29 10:09:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 124[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 10:07:54[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_subcategoria' cannot be null
+2023-04-29 10:10:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 124[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 10:10:49[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_subcategoria' cannot be null
+2023-04-29 10:41:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 125[MESSAGGE]Undefined index: id_producto
+
+2023-04-29 10:42:58[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN xdebug://debug-eval: 1[MESSAGGE]Undefined index: id_producto
+
+2023-04-29 10:44:10[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 125[MESSAGGE]Undefined property: Producto::$producto_imagen
+
+2023-04-29 10:46:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 135[MESSAGGE]Undefined property: Producto::$id_categoria
+
+2023-04-29 10:46:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 136[MESSAGGE]Undefined property: Producto::$id_subcategoria
+
+2023-04-29 10:46:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 137[MESSAGGE]Undefined property: Producto::$producto_nombre
+
+2023-04-29 10:46:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 138[MESSAGGE]Undefined property: Producto::$producto_precio
+
+2023-04-29 10:46:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 139[MESSAGGE]Undefined property: Producto::$producto_stock
+
+2023-04-29 10:46:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 141[MESSAGGE]Undefined property: Producto::$producto_creador
+
+2023-04-29 10:46:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 142[MESSAGGE]Undefined property: Producto::$producto_estado
+
+2023-04-29 10:46:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\models\Producto.php: 143[MESSAGGE]Undefined property: Producto::$producto_creacion
+
+2023-04-29 10:46:00[UTC -5] [ip] ::1 [lugar] Producto|guardar_actualizar [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_categoria' cannot be null
+2023-04-29 10:47:30[UTC -5] [ip] ::1 [lugar] Null|inicio [texto] El archivo consultado app/controllers/NullController.php no existe

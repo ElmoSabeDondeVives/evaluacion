@@ -1,0 +1,491 @@
+2023-04-24 12:07:44[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 105[MESSAGGE]Undefined variable: menu
+
+2023-04-24 12:12:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 105[MESSAGGE]Undefined variable: menu
+
+2023-04-24 12:12:49[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 105[MESSAGGE]Undefined variable: menu
+
+2023-04-24 12:14:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 12:14:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 12:49:47[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 90[MESSAGGE]Undefined index: producto_estado
+
+2023-04-24 12:49:47[UTC -5] [ip] ::1 [lugar] Producto|guardar_producto [texto] SQLSTATE[HY000]: General error: 1364 Field 'producto_precio' doesn't have a default value
+2023-04-24 12:50:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 90[MESSAGGE]Undefined index: producto_estado
+
+2023-04-24 12:50:22[UTC -5] [ip] ::1 [lugar] Producto|guardar_producto [texto] SQLSTATE[HY000]: General error: 1364 Field 'producto_precio' doesn't have a default value
+2023-04-24 12:50:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 90[MESSAGGE]Undefined index: producto_estado
+
+2023-04-24 12:50:28[UTC -5] [ip] ::1 [lugar] Producto|guardar_producto [texto] SQLSTATE[HY000]: General error: 1364 Field 'producto_precio' doesn't have a default value
+2023-04-24 12:52:06[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 91[MESSAGGE]Undefined index: producto_estado
+
+2023-04-24 12:52:06[UTC -5] [ip] ::1 [lugar] Producto|guardar_producto [texto] SQLSTATE[HY000]: General error: 1364 Field 'producto_precio' doesn't have a default value
+2023-04-24 12:52:17[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 91[MESSAGGE]Undefined index: producto_estado
+
+2023-04-24 12:52:17[UTC -5] [ip] ::1 [lugar] Producto|guardar_producto [texto] SQLSTATE[HY000]: General error: 1364 Field 'producto_precio' doesn't have a default value
+2023-04-24 12:54:51[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 91[MESSAGGE]Undefined index: producto_estado
+
+2023-04-24 12:54:51[UTC -5] [ip] ::1 [lugar] Producto|guardar_producto [texto] SQLSTATE[HY000]: General error: 1364 Field 'producto_precio' doesn't have a default value
+2023-04-24 12:56:32[UTC -5] [ip] ::1 [lugar] Producto|guardar_producto [texto] SQLSTATE[HY000]: General error: 1364 Field 'producto_precio' doesn't have a default value
+2023-04-24 12:56:44[UTC -5] [ip] ::1 [lugar] Producto|guardar_producto [texto] SQLSTATE[HY000]: General error: 1364 Field 'producto_precio' doesn't have a default value
+2023-04-24 12:57:51[UTC -5] [ip] ::1 [lugar] Producto|guardar_producto [texto] SQLSTATE[HY000]: General error: 1364 Field 'producto_precio' doesn't have a default value
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:04:36[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:10:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:15:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:15:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:15:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:15:38[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:15:50[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:15:50[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:16:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:16:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:16:12[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:16:12[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:16:15[UTC -5] [ip] ::1 [lugar] MenuController|roles [texto] ID no declarado
+2023-04-24 13:16:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:16:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:23[UTC -5] [ip] ::1 [lugar] MenuController|roles [texto] ID no declarado
+2023-04-24 13:17:27[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:17:27[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\producto\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 13:49:52[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:49:52[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:49:53[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:49:53[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:49:53[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:49:53[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:49:53[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:49:54[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:51:59[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:52:20[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:52:23[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:52:32[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:57:39[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 13:58:54[UTC -5] [ip] ::1 [lugar] Producto|editar [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-04-24 14:00:07[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 372[MESSAGGE]Undefined variable: ok_data
+
+2023-04-24 14:00:57[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 372[MESSAGGE]Undefined variable: ok_data
+
+2023-04-24 14:01:46[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 375[MESSAGGE]Undefined index: id_producto
+
+2023-04-24 14:02:31[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 375[MESSAGGE]Undefined index: id_producto
+
+2023-04-24 14:04:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 375[MESSAGGE]Undefined index: guardarid
+
+2023-04-24 14:04:37[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\controllers\ProductoController.php: 375[MESSAGGE]Undefined index: guardarid
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 16:43:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:21:08[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:30:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:31:14[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 17:36:32[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:33:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\tienda\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-04-24 18:33:07[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\tienda\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:33:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 99[MESSAGGE]Undefined property: stdClass::$cliente_tipo_documento
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 104[MESSAGGE]Undefined property: stdClass::$id_menu
+
+2023-04-24 18:34:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\tienda\app\view\cliente\inicio.php: 105[MESSAGGE]Undefined property: stdClass::$id_menu
+
